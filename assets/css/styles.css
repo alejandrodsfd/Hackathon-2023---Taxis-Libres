@@ -339,11 +339,15 @@ svg {
 .objetivos__container-contenido h2{
   line-height: 1;
   font-weight: 600;
+  
 }
 .objetivos__container-contenido p{
   text-align: justify;
 }
-
+.objetivos__container-imagen{
+ display: flex;
+ justify-self: center;
+}
 
 /*=============== PREMIOS ===============*/
   .premios{
